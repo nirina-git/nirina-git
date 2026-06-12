@@ -5,7 +5,7 @@
 ## 🔗 Me retrouver
 
 - 🌐 Site perso : https://nirina.rmnjs.org
-- ✉️ Email : nirina_@outlook.fr
+- ✉️ Email : nirina@rmnjs.org
 - 📦 GitHub : [github.com/nirina-git](https://github.com/nirina-git)
 
 ---
